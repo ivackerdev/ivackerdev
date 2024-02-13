@@ -7,7 +7,7 @@
 - 👯 Busco colaborar en Backend
 - 🤔 Busco ayuda con Tiny Go
 - 💬 Pregúntame acerca de Golang y Emprender
-- 📫 Cómo contactarme: [TuCorreoElectronico](mailto:ivan@ivacker.dev)
+- 📫 Cómo contactarme: [Correo](mailto:ivan@ivacker.dev) | [Whatsapp](https://elwsp.es/ivacker)
 - ⚡ Dato curioso: Nunca me he perdido un concierto de Pearl Jam...
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivacker/)
