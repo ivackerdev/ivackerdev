@@ -1,4 +1,4 @@
-![Texto alternativo](https://raw.githubusercontent.com/ivackerdev/ivackerdev/main/evolution-ti.png)
+![...](https://raw.githubusercontent.com/ivackerdev/ivackerdev/main/evolution-ti.png)
 ### ¡Hola mundo! 👋
 ¡Bienvenido a mi rincón de código en la jungla de bits!
 
