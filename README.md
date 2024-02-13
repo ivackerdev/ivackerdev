@@ -1,8 +1,6 @@
-<p aling="center">
 ![...](https://raw.githubusercontent.com/ivackerdev/ivackerdev/main/evolution-ti.png)
-</p>
 
-### ¡Hola mundo! 👋
+### ¡Hola coders! 👋
 ¡Bienvenido a mi rincón de código en la jungla de bits!
 
 - 🔭 Actualmente estoy trabajando en Ivacker.Dev
