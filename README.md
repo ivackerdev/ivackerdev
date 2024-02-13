@@ -3,10 +3,10 @@
 ### ¡Hola coders! 👋
 ¡Bienvenido a mi rincón de código en la jungla de bits!
 
-- 🔭 Actualmente estoy trabajando en Ivacker.Dev
+- 🔭 Actualmente estoy trabajando en Golang y WASM
 - 🌱 Actualmente estoy aprendiendo WASM
 - 👯 Busco colaborar en Backend
-- 🤔 Busco ayuda con Tiny Go
+- 🤔 Busco ayuda con WASM
 - 💬 Pregúntame acerca de Golang y Emprender
 - 📫 Cómo contactarme: [Correo](mailto:ivan@ivacker.dev) | [Whatsapp](https://elwsp.es/ivacker)
 - ⚡ Dato curioso: Nunca me he perdido un concierto de Pearl Jam...
