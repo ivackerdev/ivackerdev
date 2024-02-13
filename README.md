@@ -13,4 +13,4 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuperfillinkedin/)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/tuperfiltwitter)
 
-![Texto alternativo]([evolution-ti-png](https://raw.githubusercontent.com/ivackerdev/ivackerdev/main/evolution-ti.png)https://raw.githubusercontent.com/ivackerdev/ivackerdev/main/evolution-ti.png)
+![Texto alternativo]((https://raw.githubusercontent.com/ivackerdev/ivackerdev/main/evolution-ti.png)https://raw.githubusercontent.com/ivackerdev/ivackerdev/main/evolution-ti.png)
